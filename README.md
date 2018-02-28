@@ -30,5 +30,6 @@ This is initiative draft to kickstart an official Community Leaders group for LA
 |Christian Melendez|Guatemala|@Christianhxc||||
 |Víctor Pérez|Panama|@vperezpereira|||| 
 |Juan Botero|Colombia|juan.botero@iktinus.com|||el es el lider del AWS UG aca en Medallo|
-|Damian Antonio||||||
+|Damian Antonio|Cordoba|||||
+|Jose Peinado|Cordoba|||||
 
