@@ -17,3 +17,5 @@ This is initiative draft to kickstart an official Community Leaders group for LA
 |---|---|---|---|---|---|
 |Raul Hugo|Perú|sherlockhugo@gmail.com|||contact Vinicius / email|
 |Carlos Eduardo Cortez Bazan|Perú|cortezb.claro@gmail.com||||
+|Gabriel Ramirez|Mexico|gabanox@gmail.com||||Helped Julio to organize meetup|
+
