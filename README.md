@@ -12,3 +12,8 @@ This is initiative draft to kickstart an official Community Leaders group for LA
 * Exclusive and early access content*
 * Stickers
 * AWS Talks @ local conferences(1-2 per year, upon approval)
+
+|Name	|Country|	e-mail|	Whatsapp|	Hero?|	Obs|
+|---|---|---|---|---|---|
+|Raul Hugo|Perú|sherlockhugo@gmail.com|||contact Vinicius / email|
+|Carlos Eduardo Cortez Bazan|Perú|cortezb.claro@gmail.com||||
